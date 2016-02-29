@@ -1,2 +1,4 @@
-# erudio_swagger_java_ee
-Hi guys lets work with JEE and Swagger
+erudio-swagger-java-ee
+==============
+
+http://localhost:8080/erudio-swagger-java-ee-web/index.html
