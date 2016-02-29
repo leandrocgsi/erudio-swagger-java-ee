@@ -1,1 +1,8 @@
 /target/
+
+/.classpath
+/.gitignore
+/.project
+/.settings/
+/.gradle/
+/build/
