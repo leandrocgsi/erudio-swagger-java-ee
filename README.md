@@ -4,3 +4,12 @@ Erudio Swagger Java EE
 [![Build Status](https://circleci.com/gh/leandrocgsi/erudio_swagger_java_ee.svg?&style=shield)](https://circleci.com/gh/leandrocgsi/erudio_swagger_java_ee/)
 
 http://localhost:8080/erudio-swagger-java-ee-web/index.html
+
+
+# How to get this project
+
+You can execute following command or as you prefer [download zip here](https://github.com/leandrocgsi/erudio-swagger-java-ee/archive/master.zip) and import in your favourite IDE.
+
+```sh
+git clone https://github.com/leandrocgsi/erudio-swagger-java-ee.git
+```
